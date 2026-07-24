@@ -1,5 +1,0 @@
-# Runtime deps for the auto-refresh workflow (fetch + heatmap):
-requests==2.32.3
-beautifulsoup4==4.12.3
-# Local-only, for regenerating the name wordmark (not needed by the workflow):
-pyfiglet==1.0.2
