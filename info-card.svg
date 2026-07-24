@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 206" width="490" height="206">
+<style>text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:13px;}</style>
+<rect x="0.5" y="0.5" width="489" height="205" rx="8" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 8.5 A8 8 0 0 1 8.5 0.5 H481.5 A8 8 0 0 1 489.5 8.5 V34 H0.5 Z" fill="#161b22"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text x="80" y="21" fill="#8b949e">anuj@github:~$ neofetch</text>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.00s" dur="0.4s" fill="freeze"/><text x="20" y="60" fill="#39d353">focus</text><text x="150" y="60" fill="#c9d1d9">AI agent tooling . evals . infra</text></g>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.12s" dur="0.4s" fill="freeze"/><text x="20" y="86" fill="#39d353">based</text><text x="150" y="86" fill="#c9d1d9">Bhopal, India</text></g>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.24s" dur="0.4s" fill="freeze"/><text x="20" y="112" fill="#39d353">stack</text><text x="150" y="112" fill="#c9d1d9">TypeScript . Python . Rust . Next.js</text></g>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.36s" dur="0.4s" fill="freeze"/><text x="20" y="138" fill="#39d353">workflow</text><text x="150" y="138" fill="#c9d1d9">ships solo via AI coding-agent pipeline</text></g>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.48s" dur="0.4s" fill="freeze"/><text x="20" y="164" fill="#39d353">open-to</text><text x="150" y="164" fill="#c9d1d9">founding-track builder / technical PM</text></g>
+<g opacity="0" transform="translate(-8,0)"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.4s" fill="freeze"/><animateTransform attributeName="transform" type="translate" from="-8,0" to="0,0" begin="0.60s" dur="0.4s" fill="freeze"/><text x="20" y="190" fill="#39d353">remote</text><text x="150" y="190" fill="#c9d1d9">yes -- early-stage AI teams</text></g>
+</svg>

@@ -1,21 +1,77 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building AI-powered and data-driven applications, including stock market analytics and ML-based prediction systems  <br><br>👯 I’m looking to collaborate on  <br>Data Science, Machine Learning, and AI-driven business analytics projects  <br><br>🤝 I’m looking for help with  <br>Deploying ML models, improving model performance, and building scalable data pipelines  <br><br>🌱 I’m currently learning  <br>Advanced Machine Learning, Data Engineering concepts, and AI-driven automation workflows  <br><br>💬 Ask me about  <br>Python, Machine Learning (Scikit-learn), Data Analysis, and building end-to-end ML pipelines  <br><br>⚡ Fun fact  <br>I enjoy combining business understanding with data to build practical AI solutions 🚀  
+<div align="center">
 
+<img src="./name-banner.svg" width="640" alt="Anuj Ojha — AI-native product builder" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anujojha18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojhaanuj224@gmail.com) 
+<br><br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anuj7411&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anuj7411&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj7411&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="./info-card.svg" width="500" alt="Profile info" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anuj7411&theme=ocean_dark&no-frame=false&no-bg=true&margin-w=4)
+<br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Anuj7411&icon=10&color=0)](https://visitcount.itsvg.in)
+<h3><code>anuj@github:~$ ./contributions.sh</code></h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution activity" />
+
+</div>
+
+<br>
+
+### <code>anuj@github:~$ cat about.md</code>
+
+AI-native product builder — I find problems in the tools I use, build the fix, ship it, and measure it. I ship at volume solo by orchestrating a pipeline of AI coding agents (Claude Code, Codex) across the whole dev lifecycle.
+
+Open to joining an early-stage AI team as a **founding-track builder** or **technical product manager**, remote.
+
+<br>
+
+### <code>anuj@github:~$ ls projects/</code>
+
+**[Sipcode](https://github.com/Anuj7411/sipcode)** &nbsp;·&nbsp; [npm](https://www.npmjs.com/package/sipcode) &nbsp;·&nbsp; AI coding-agent tooling
+MCP server that cuts AI coding-agent token use by a **62.6% median** on a locked benchmark. On the Official MCP Registry, #12 of 1,086 on Product Hunt, backed by 1,389 tests.
+
+**[AnswerFox](https://github.com/Anuj7411/answerfox)** &nbsp;·&nbsp; AI-readiness platform
+Audits how AI crawlers actually read a site, then ships the fixes as GitHub PRs and re-audits on merge. 52 checks across 7 npm packages, 253 tests. Built on RSC, Drizzle/Supabase (RLS), Inngest, Cloudflare.
+
+**[Judix](https://github.com/Anuj7411/judix)** &nbsp;·&nbsp; agent evals infrastructure
+Real-time evals for AI agents and RAG — a Rust core scores every step live at ~$0 (deterministic rules plus a model judge). Streaming API, CLI, and LangChain / CrewAI / Codex hooks.
+
+**Sotto** &nbsp;·&nbsp; consumer web app
+Anonymous Secret Santa, shipped solo in 14 days and launched on Product Hunt. Privacy is enforced at the database layer (Sattolo shuffle + bcrypt + RLS), not as a toggle.
+
+<br>
+
+### <code>anuj@github:~$ ./open-source.sh</code>
+
+Pull requests merged across **5 LLM-observability platforms** — Comet **Opik**, BerriAI **LiteLLM**, and more — fixing 2×–16× billing bugs on flagship models and recovering 500+ dropped model entries. Every fix ships with a regression test. Publicly thanked and invited back by the Opik lead maintainer, with more PRs in review across Arize Phoenix, Langfuse, and Helicone.
+
+<br>
+
+### <code>anuj@github:~$ cat experience.md</code>
+
+**Data Scientist Intern** — Hackveda Solutions *(Remote)*
+Shipped ML pipelines end-to-end under sprint deadlines; selected models by benchmarking on accuracy, precision, recall, and F1, and turned output into decisions non-technical stakeholders could act on.
+
+<br>
+
+### <code>anuj@github:~$ cat education.md</code>
+
+**B.Tech, Computer Science & Business Systems** — OIST Bhopal &nbsp;·&nbsp; CGPA 8.09/10 &nbsp;·&nbsp; IEEE-published (WardROBO, CODE 2K-26)
+**Certifications:** Claude Code in Action & Introduction to MCP (Anthropic) · McKinsey Forward · OCI Generative AI Professional (Oracle) · Technical Product Management (LinkedIn)
+
+<br>
+
+### <code>anuj@github:~$ cat stack.txt</code>
+
+**Languages** &nbsp;·&nbsp; TypeScript · Python · Rust · Java · SQL
+**AI tooling** &nbsp;·&nbsp; Claude Code · Codex · MCP · evals & LLM observability (Opik, LiteLLM, Phoenix, Langfuse) · RAG · OpenAI / Gemini / Anthropic APIs · OpenTelemetry
+**Frameworks & infra** &nbsp;·&nbsp; Next.js · React · Node.js · Supabase / PostgreSQL (RLS) · Drizzle · Inngest · Cloudflare · Docker · GitHub Actions
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anujojha18-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujojha18)
+[![Email](https://img.shields.io/badge/Email-ojhaanuj224%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:ojhaanuj224@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Anuj7411-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anuj7411)
+
+</div>
