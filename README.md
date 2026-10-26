@@ -6,6 +6,8 @@
 <!-- ================= TYPING TAGLINE (animated) ================= -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Finds+problems+in+the+tools+it+uses%2C+ships+the+fix;Orchestrates+a+pipeline+of+AI+coding+agents;Sipcode+%C2%B7+AnswerFox+%C2%B7+Judix+%C2%B7+Sotto" alt="typing" />
 
+**Portfolio → [anujojha.com](https://anujojha.com)** · every product, with the numbers behind it
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Anuj7411&label=views&color=39d353&style=for-the-badge" alt="views" />
@@ -43,6 +45,7 @@
 <br><br>
 
 <!-- ================= SOCIALS ================= -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-anujojha.com-2F6BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anujojha.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anujojha18-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anujojha18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojhaanuj224@gmail.com)
 [![npm](https://img.shields.io/badge/npm-sipcode-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/sipcode)
